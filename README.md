@@ -1,8 +1,8 @@
 # predict_crimeNYC
 
 
-Open source data from Kaggle
+Sources of data
 
-- NYC crime reports: https://www.kaggle.com/adamschroeder/crimes-new-york-city/data
+- Crime data: Open source data from the City of New York: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
 
-- Census data: https://www.kaggle.com/muonneutrino/new-york-city-census-data
+- Census Data: Open source data from the United States Census Bureau: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t
